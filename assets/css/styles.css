@@ -227,3 +227,29 @@ h2 {
     aspect-ratio: 16 / 9;
   }
 }
+
+/* =========================
+   Mobile Adjustments
+========================= */
+
+@media (max-width: 768px) {
+  #hero {
+    aspect-ratio: 16 / 9;
+    min-height: 300px;
+  }
+
+  .overlay {
+    padding: 20px;
+    border-radius: 10px;
+    background: rgba(243, 112, 34, 0.85);
+    max-width: 90%;
+  }
+
+  .overlay h1 {
+    font-size: 1.6rem;
+  }
+
+  .overlay p {
+    font-size: 1rem;
+  }
+}
