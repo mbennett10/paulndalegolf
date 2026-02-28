@@ -37,3 +37,59 @@ permalink: /thank-you/
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </section>
+
+<footer class="site-footer">
+  <div class="footer-container">
+
+    <div class="footer-cta">
+      <h2>Ready to Play?</h2>
+      <a href="https://buy.stripe.com/test_cNi9AUg2A7wV6RibYZ6EU00" class="btn-footer">
+        Register Your Team
+      </a>
+    </div>
+
+    <div class="social-icons">
+      <h3>Follow Us</h3>
+      <ul class="social-icons__list">
+
+        <li>
+          <a href="https://www.facebook.com/ascentra.org" target="_blank" aria-label="Ascentra Facebook">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.instagram.com/ascentracu/" target="_blank" aria-label="Ascentra Instagram">
+            <i class="fab fa-instagram"></i>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.youtube.com/@ascentracreditunion" target="_blank" aria-label="Ascentra YouTube">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.tiktok.com/@ascentra" target="_blank" aria-label="Ascentra TikTok">
+            <i class="fab fa-tiktok"></i>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.snapchat.com/add/ascentracu" target="_blank" aria-label="Ascentra Snapchat">
+            <i class="fab fa-snapchat"></i>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.linkedin.com/company/ascentra-credit-union" target="_blank" aria-label="Ascentra LinkedIn">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+        </li>
+
+      </ul>
+    </div>
+
+  </div>
+</footer>
