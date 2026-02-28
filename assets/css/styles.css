@@ -1,6 +1,3 @@
----
----
-
 html {
   scroll-behavior: smooth;
 }
@@ -13,7 +10,7 @@ body {
 
 /* HERO */
 #hero {
-  background: url('{{ site.baseurl }}/assets/images/hero.png') center/cover no-repeat;
+  background: url('/paulndalegolf/assets/images/hero.png') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
